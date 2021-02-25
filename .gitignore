@@ -1,0 +1,10 @@
+# @(#) Articles/.gitignore
+# Last-edited: Thu 2021.02.25.2234 -- Danny Quah (me@DannyQuah.com)
+# ----------------------------------------------------------------
+# Revision History:
+#  % Thu 2021.02.25.2234 -- Danny Quah (me@DannyQuah.com)
+#    First draft: block from git push
+# ----------------------------------------------------------------
+*.xls
+.~lock*
+# eof Articles/.gitignore
